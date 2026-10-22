@@ -1,0 +1,17 @@
+match_id,date,competition,season,home_team,away_team,home_goals,away_goals,venue
+1,1995-03-01,UEFA Champions League (Quarter-final 1st leg),1994-95,Barcelona,Paris Saint-Germain,1,1,Camp Nou
+2,1995-03-15,UEFA Champions League (Quarter-final 2nd leg),1994-95,Paris Saint-Germain,Barcelona,2,1,Parc des Princes
+3,1997-05-14,UEFA Cup Winners' Cup (Final),1996-97,Barcelona,Paris Saint-Germain,1,0,De Kuip (Rotterdam - neutral)
+4,2013-04-02,UEFA Champions League (Quarter-final 1st leg),2012-13,Paris Saint-Germain,Barcelona,2,2,Parc des Princes
+5,2013-04-10,UEFA Champions League (Quarter-final 2nd leg),2012-13,Barcelona,Paris Saint-Germain,1,1,Camp Nou
+6,2014-09-30,UEFA Champions League (Group stage),2014-15,Paris Saint-Germain,Barcelona,3,2,Parc des Princes
+7,2014-12-10,UEFA Champions League (Group stage),2014-15,Barcelona,Paris Saint-Germain,3,1,Camp Nou
+8,2015-04-15,UEFA Champions League (Quarter-final 1st leg),2014-15,Paris Saint-Germain,Barcelona,1,3,Parc des Princes
+9,2015-04-21,UEFA Champions League (Quarter-final 2nd leg),2014-15,Barcelona,Paris Saint-Germain,2,0,Camp Nou
+10,2017-02-14,UEFA Champions League (Round of 16 1st leg),2016-17,Paris Saint-Germain,Barcelona,4,0,Parc des Princes
+11,2017-03-08,UEFA Champions League (Round of 16 2nd leg),2016-17,Barcelona,Paris Saint-Germain,6,1,Camp Nou
+12,2021-02-16,UEFA Champions League (Round of 16 1st leg),2020-21,Barcelona,Paris Saint-Germain,1,4,Camp Nou
+13,2021-03-10,UEFA Champions League (Round of 16 2nd leg),2020-21,Paris Saint-Germain,Barcelona,1,1,Parc des Princes
+14,2024-04-10,UEFA Champions League (Quarter-final 1st leg),2023-24,Paris Saint-Germain,Barcelona,2,3,Parc des Princes
+15,2024-04-16,UEFA Champions League (Quarter-final 2nd leg),2023-24,Barcelona,Paris Saint-Germain,1,4,Estadi Olímpic Lluís Companys
+16,2025-10-01,UEFA Champions League (League phase),2025-26,Barcelona,Paris Saint-Germain,1,2,Estadi Olímpic Lluís Companys
